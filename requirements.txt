@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+pytz
+requests
+streamlit
+streamlit-autorefresh
