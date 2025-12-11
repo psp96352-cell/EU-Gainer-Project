@@ -8,7 +8,7 @@ import yfinance as yf
 API_URL = "https://eu-gainer-project.onrender.com/get_gainers"
 
 st.set_page_config(page_title="EU Gainer Monitor", layout="wide")
-st.title("📈 유럽 급등주 실시간 감시 (Layered Architecture Version)")
+st.title("📈 유럽 급등주 실시간 감시")
 
 # ======================================================
 # 🔷 1) 유럽 지수 데이터 가져오기
